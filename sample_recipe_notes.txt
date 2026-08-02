@@ -1,0 +1,32 @@
+Recipe Name: Classic Chocolate Cake
+
+Ingredients:
+- 2 cups all-purpose flour
+- 2 cups sugar
+- 3/4 cup cocoa powder
+- 2 eggs
+- 1 cup milk
+- 1/2 cup butter
+- 1 tsp vanilla extract
+- 1 tsp baking powder
+
+Instructions:
+1. Preheat oven to 180°C.
+2. Mix all dry ingredients.
+3. Add eggs, milk, butter, and vanilla.
+4. Pour batter into a greased cake pan.
+5. Bake for 35 minutes.
+
+Nutrition (Approximate):
+Calories: 320 kcal
+Protein: 6 g
+Carbohydrates: 45 g
+Fat: 14 g
+
+Substitutions:
+Eggs → Yogurt (1/4 cup per egg)
+Butter → Coconut Oil
+Sugar → Stevia
+
+Suitable Diet:
+Vegetarian
